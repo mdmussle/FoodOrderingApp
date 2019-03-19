@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food on the FLI</string>
+    <string name="err_msg_email">dan_hooks85@yahoo.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailId">dan_hooks85@yahoo.com</string>
+    <string name="contactNo">3363345510</string>
+    <string name="secure_payment_text"><![CDATA[Safe and Secure Payments.]]></string>
+
+</resources>

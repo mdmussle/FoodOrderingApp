@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "154050847052",
+    "firebase_url": "https://fof-2018.firebaseio.com",
+    "project_id": "fof-2018",
+    "storage_bucket": "fof-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154050847052:android:9fc7a9fbc276464a",
+        "android_client_info": {
+          "package_name": "com.FoF.foodordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154050847052-4egnl5i9vi847mmsbat5056nashndhcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvg4OVn7eBh0xUSUZduwgl1mFdvxAHZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
